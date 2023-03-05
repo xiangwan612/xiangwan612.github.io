@@ -4,16 +4,16 @@
 
 # Site
 title: 李向晚的blog
-subtitle: ''
-description: ''
+subtitle: '随笔'
+description: '记录学习上的疑惑与笔记'
 keywords:
 author: 小晚
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xiangwan.github.io
+url: https://xiangwan612.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
